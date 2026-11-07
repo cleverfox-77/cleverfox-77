@@ -37,3 +37,20 @@
   - [Self-Filling Agentic CRM](https://telegra.ph/Self-Filling-Agentic-CRM-Extracting-Contacts-Cases--Commitments-Automatically-11-07)
   - [Multimodal Vision & Voice AI Agent](https://telegra.ph/Multimodal-Customer-Support-AI-Visual-Product-Search--Interruptible-Voice-Calls-11-07)
   - [Model Context Protocol (MCP) Server v1.1.0](https://telegra.ph/Model-Context-Protocol-MCP-Server-for-Customer-Operations-OctaDezx-MCP-v110-11-07)
+
+### Official Package Registries & Mirrors (Live `dofollow` Links to `/developers`)
+- **Python Package Index (PyPI — DR 93):** [https://pypi.org/project/octadezx/](https://pypi.org/project/octadezx/)
+- **PyPI Stats Package Hub (DR 72 — `dofollow`):** [https://pypistats.org/packages/octadezx](https://pypistats.org/packages/octadezx)
+- **npm Registry (DR 93):** [@octadezx/sdk](https://www.npmjs.com/package/@octadezx/sdk) · [@octadezx/messenger](https://www.npmjs.com/package/@octadezx/messenger) · [@octadezx/messenger-react-native](https://www.npmjs.com/package/@octadezx/messenger-react-native) · [@octadezx/adk](https://www.npmjs.com/package/@octadezx/adk)
+- **npm.io Package Directory (DR 73 — `dofollow`):** [@octadezx/sdk](https://npm.io/package/@octadezx/sdk) · [@octadezx/messenger](https://npm.io/package/@octadezx/messenger) · [@octadezx/messenger-react-native](https://npm.io/package/@octadezx/messenger-react-native) · [@octadezx/adk](https://npm.io/package/@octadezx/adk)
+
+### High-Demand Product & Comparison Guides on OctaDezx.com
+- [AI Appointment Booking Bot & Scheduling Assistant (2026)](https://octadezx.com/ai-appointment-scheduling)
+- [Best AI Customer Service Platforms Compared (2026): Intercom Fin, Zendesk, Gorgias & OctaDezx](https://octadezx.com/blog/best-ai-customer-service-platforms-compared)
+- [Why Customers Hate Repeating Themselves & Unified AI Context](https://octadezx.com/blog/why-customers-hate-repeating-themselves)
+- [OctaDezx Flat-Rate Pricing ($29/mo Starter, 3-Day Free Trial)](https://octadezx.com/pricing)
+- [AI CRM That Fills Itself In: Contacts, Cases, Opportunities & Commitments](https://octadezx.com/crm)
+- [OctaDezx Developer Platform: Headless Agent API, SDKs & OpenAPI 3.1](https://octadezx.com/developers)
+- [Enterprise AI Customer Support Platform](https://octadezx.com/enterprise-ai-customer-support)
+- [24/7 Omnichannel AI Customer Support Agent](https://octadezx.com/ai-customer-support)
+- [About OctaDezx (Zeriotic & DezxCorp)](https://octadezx.com/about)
